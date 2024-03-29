@@ -1,0 +1,3 @@
+VCC2018 URL:https://datashare.ed.ac.uk/handle/10283/3061
+Train Dataset URL:https://datashare.ed.ac.uk/bitstream/handle/10283/3061/vcc2018_database_training.zip?sequence=2&isAllowed=y
+Evaluation Dataset URL:https://datashare.ed.ac.uk/bitstream/handle/10283/3061/vcc2018_database_evaluation.zip?sequence=3&isAllowed=y
